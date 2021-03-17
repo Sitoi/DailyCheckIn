@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://github.com/Sitoi/dailycheckin/</loc>
+     <lastmod>2021-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Sitoi/dailycheckin/settings/</loc>
+     <lastmod>2021-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Sitoi/dailycheckin/local/</loc>
+     <lastmod>2021-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Sitoi/dailycheckin/docker/</loc>
+     <lastmod>2021-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Sitoi/dailycheckin/synology/</loc>
+     <lastmod>2021-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Sitoi/dailycheckin/tencent-scf/</loc>
+     <lastmod>2021-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://github.com/Sitoi/dailycheckin/github-actions/</loc>
+     <lastmod>2021-03-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
